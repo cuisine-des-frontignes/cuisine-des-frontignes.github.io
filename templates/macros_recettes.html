@@ -1,0 +1,10 @@
+{% macro count_pages(section) %}
+    {% set_global total = section.pages | length %}
+
+    {% for subsection_path in section.subsections %}
+        {% set subsection = get_section(path=subsection_path) %}
+        {% set_global total = total + self::count_pages(section=subsection) | int %}
+    {% endfor %}
+
+    {{ total }}
+{% endmacro count_pages %}

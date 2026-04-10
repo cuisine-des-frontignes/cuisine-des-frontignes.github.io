@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set tartinades = get_section(path="tartinades/_index.md") %}
+{% set aperitif = get_section(path="autres-mets-daperitif/_index.md") %}
+{% set cocotte = get_section(path="plats-complets-en-cocotte/_index.md") %}
+{% set viande = get_section(path="plats-de-viande/_index.md") %}
+{% set poisson = get_section(path="plats-de-poisson/_index.md") %}
+{% set vegetarien = get_section(path="plats-vegetariens/_index.md") %}
+{% set soupes = get_section(path="soupes/_index.md") %}
+{% set purees = get_section(path="purees/_index.md") %}
+{% set sauces = get_section(path="sauces/_index.md") %}
+{% set marinades = get_section(path="marinades-et-condiments/_index.md") %}
+{% set gateaux = get_section(path="gateaux/_index.md") %}
+{% set desserts = get_section(path="autres-desserts/_index.md") %}
+{% set methodes = get_section(path="methodes-et-inclassables/_index.md") %}
+{% set atester = get_section(path="a-tester/_index.md") %}
+<input type="text" id="search" placeholder="Rechercher un ingrédient...">
+<ul id="results"></ul>
+<script>
+let index = [];
+
+fetch("/search_index.fr.json")
+  .then(res => res.json())
+  .then(data => {
+    index = data;
+    console.log("Index chargé :", index.length);
+  });
+
+document.getElementById("search").addEventListener("input", function() {
+  const query = this.value.toLowerCase();
+  const results = document.getElementById("results");
+  results.innerHTML = "";
+
+  if (!query || index.length === 0) return;
+
+  index.forEach(page => {
+    if (
+      (page.content && page.content.toLowerCase().includes(query)) ||
+      (page.title && page.title.toLowerCase().includes(query))
+    ) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = page.url;
+      a.textContent = page.title;
+
+      li.appendChild(a);
+      results.appendChild(li);
+    }
+  });
+});
+</script>
+
+{% set total =
+    tartinades.pages | length +
+    aperitif.pages | length +
+    cocotte.pages | length +
+    viande.pages | length +
+    poisson.pages | length +
+    vegetarien.pages | length +
+    soupes.pages | length +
+    purees.pages | length +
+    sauces.pages | length +
+    marinades.pages | length +
+    gateaux.pages | length +
+    desserts.pages | length +
+    methodes.pages | length 
+%}
+<h1>{{ total }} recettes</h1>
+{% endblock content %}

@@ -1,0 +1,37 @@
+title = "Cuisine des Frontignes"
+description = "Bibliothèque culinaire privée"
+base_url = "https://cuisinedesfrontignes.github.io"
+default_language = "fr"
+theme = "slim"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[search]
+index_format = "fuse_json"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+slim_menu = [
+  { name = "Tartinades",                    url = "/tartinades/" },
+  { name = "Autres mets d’apéritif",        url = "/autres-mets-daperitif/" },
+  { name = "Plats complets en cocotte",     url = "/plats-complets-en-cocotte/" },
+  { name = "Plats de viande",               url = "/plats-de-viande/" },
+  { name = "Plats de poisson",              url = "/plats-de-poisson/" },
+  { name = "Plats végétariens",             url = "/plats-vegetariens/" },
+  { name = "Soupes",                        url = "/soupes/" },
+  { name = "Purées",                        url = "/purees/" },
+  { name = "Sauces",                        url = "/sauces/" },
+  { name = "Marinades et condiments",       url = "/marinades-et-condiments/" },
+  { name = "Gâteaux",                       url = "/gateaux/" },
+  { name = "Autres desserts",               url = "/autres-desserts/" },
+  { name = "Méthodes et inclassables",      url = "/methodes-et-inclassables/" },
+  { name = "A tester",                      url = "a-tester/" },
+  ]
