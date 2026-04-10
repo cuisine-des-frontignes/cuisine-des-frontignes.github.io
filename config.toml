@@ -1,6 +1,6 @@
 title = "Cuisine des Frontignes"
 description = "Bibliothèque culinaire privée"
-base_url = "https://cuisinedesfrontignes.github.io"
+base_url = "https://cuisine-des-frontignes.github.io"
 default_language = "fr"
 theme = "slim"
 
