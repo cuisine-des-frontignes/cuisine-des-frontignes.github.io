@@ -1,6 +1,9 @@
 +++
 title       = "Pâte feuilletée"
 date        = 2025-08-06
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Pour la pâte feuilletée d'un plat en verre rond classique pour tarte.

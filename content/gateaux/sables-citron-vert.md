@@ -1,6 +1,9 @@
 +++
 title = "Sablés au citron vert"
 date  = 2025-08-22
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Fouetter **3 jaunes d’œufs** et **100g de sucre (moitié blanc, moitié cassonade)**. Ajouter en remuant avec une cuillère en bois **220g de farine**, **1 sachet de levure** et **le zeste de 2 citrons verts**. Une fois que cela ressemble à du sable, mélanger à **150g de beurre ramolli**.  

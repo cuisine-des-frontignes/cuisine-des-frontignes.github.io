@@ -1,6 +1,9 @@
 +++
 title = "Céleri rôti"
 date  = 2025-08-17
+
+[taxonomies]
+saisons = ["hiver"]
 +++
 
 Bien brosser un **céleri**, le couper légèrement à la base pour qu'il tienne, enlever les feuilles, envelopper avec des **herbes (thym, romarin...)** dans un papier cuisson puis un papier alu de manière la plus hermétique possible.

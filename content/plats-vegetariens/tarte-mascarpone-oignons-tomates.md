@@ -1,6 +1,9 @@
 +++
 title       = "Tarte mascarpone, oignons et tomates"
 date        = 2025-08-06
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Faire une [**pâte feuilletée**](/pates-a-tarte/pate-feuilletee/) en amont.

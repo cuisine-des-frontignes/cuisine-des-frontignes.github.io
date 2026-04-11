@@ -1,6 +1,9 @@
 +++
 title = "Blancs de poulet entiers au four"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Dans un plat bien calibré, mélanger des **blancs de poulet** avec une préparation à base d’huile et forte en goût, si possible à l’avance pour faire mariner.

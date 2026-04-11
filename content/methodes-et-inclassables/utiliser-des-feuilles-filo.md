@@ -1,6 +1,9 @@
 +++
 title       = "Utiliser des feuilles de pâte filo"
 date        = 2025-08-08
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Découper les feuilles à peu près à la taille du plat choisi, ou un peu plus grand (le plat Pyrex noir rangé dans la pâtisserie est le plus adapté à la maison).

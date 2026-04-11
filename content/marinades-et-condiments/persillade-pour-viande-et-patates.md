@@ -1,6 +1,9 @@
 +++
 title = "Persillade pour viande et patates"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne"]
 +++
 
 Quelques heures avant de manger, mixer les feuilles d’un bouquet de **persil** avec une gousse d’**ail**, puis ajouter un fond d’**huile d’olive** et mixer à nouveau, jusqu’à obtenir la consistance d’un pesto. 

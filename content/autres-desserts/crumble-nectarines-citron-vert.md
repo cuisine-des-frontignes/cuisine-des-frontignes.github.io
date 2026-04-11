@@ -1,6 +1,9 @@
 +++
 title       = "Crumble aux nectarines et citron vert"
 date        = 2025-08-27
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Couper **6 nectarines** (mais cela marche sans doute aussi avec des pêches ou pêches de vigne) en tranches d'un petit centimètre d'épaisseur. Si on arrive à enlever la peau, tant mieux, sinon tant pis. Les placer dans un saladier avec **deux petites branches de romarin**, **60g de cassonade**, le **zeste d'un citron vert** et le **jus de deux citrons verts**. Filmer, placer au frais au moins une heure.

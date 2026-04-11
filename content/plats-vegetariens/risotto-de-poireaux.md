@@ -1,6 +1,9 @@
 +++
 title = "Risotto de poireaux"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "hiver"]
 +++
 
 Faire un **bouillon de légumes** en mettant 1,5 à 2 L d’eau à chauffer avec les 2 cubes. Ou encore mieux, avoir un bouillon de légumes frais sous la main.

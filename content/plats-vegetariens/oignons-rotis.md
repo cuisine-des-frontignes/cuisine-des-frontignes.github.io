@@ -1,6 +1,9 @@
 +++
 title = "Oignons rotis"
 date  = 2025-09-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper **3 petits oignons** en deux, de manière horizontale lorsqu'on les pose sur leur petite touffe. Couper aussi les deux extrémités, de la manière la plus droite possible, de sorte à pouvoir les asseoir sur leur petit côté.

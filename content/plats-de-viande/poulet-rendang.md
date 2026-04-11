@@ -1,6 +1,9 @@
 +++
 title = "Poulet rendang"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete"]
 +++
 
 (proportions pour 2 personnes)

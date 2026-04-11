@@ -1,6 +1,9 @@
 +++
 title = "Blanquette de veau"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "automne", "hiver"]
 +++
 
 - **25 cl de crème fraîche**  

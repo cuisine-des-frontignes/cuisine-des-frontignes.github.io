@@ -1,6 +1,9 @@
 +++
 title       = "Garbure au confit de canard"
 date        = 2025-08-22
+
+[taxonomies]
+saisons = ["hiver"]
 +++
 
 Dans une cocotte en fonte, faire revenir dans de la **graisse de canard** (pas trop) des **patates** et **carottes** en petits morceaux : **1/4 de chou**, quelques **navets**, **poireaux**, **oignons** possiblement en plus.  

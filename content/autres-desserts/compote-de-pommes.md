@@ -1,6 +1,9 @@
 +++
 title       = "Compote de pommes"
-saisons     = ["printemps", "ete", "automne", "hiver"]
+date        = 2025-10-02
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper des **pommes** au pèle-pommes, les placer dans une petite casserole avec un peu de **beurre**, de **sucre** et d'eau. 

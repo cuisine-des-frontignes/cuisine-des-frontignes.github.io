@@ -1,6 +1,9 @@
 +++
 title = "Oeuf cocotte en jack be little"
 date  = 2025-11-30
+
+[taxonomies]
+saisons = ["automne"]
 +++
 
 Couper les chapeaux de **jack be little** et enlever les pépins en creusant avec une cuillère. Les saler, et mettre au four à 175° pour environ 40 minutes. Il faut qu'ils soient presque complètement cuits mais qu'ils se tiennent encore.

@@ -1,6 +1,9 @@
 +++
 title = "Pseudo-rougail"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Faire une [**sauce tomate rapide**](/sauces/sauce-tomate-rapide/).

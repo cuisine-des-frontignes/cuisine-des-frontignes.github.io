@@ -1,6 +1,9 @@
 +++
 title       = "Sauce champignons-crème"
 date        = 2026-03-29
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Peler et couper **600g de champignons** en bouts de taille moyenne. Environ 20 mn avant la fin de la cuisson, ciseler **deux échalotes** et hacher **deux aulx**. Les faire revenir dans une grande poêle avec une dose généreuse de beurre. Puis ajouter les champignons, baisser le feu une fois qu’ils ont un peu coloré. 

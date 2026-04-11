@@ -1,6 +1,9 @@
 +++
 title = "Marinade au soja très simple pour bœuf"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 (proportions pour 2 personnes)

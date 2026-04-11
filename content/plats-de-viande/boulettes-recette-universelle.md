@@ -1,6 +1,9 @@
 +++
 title = "Boulettes à la poêle : recette universelle"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 (dose pour 2 personnes)

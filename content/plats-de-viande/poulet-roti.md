@@ -1,6 +1,9 @@
 +++
 title = "Poulet rôti"
 date  = 2025-08-22
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 - 25 mn de cuisson pour 500g de poulet, 185°C.

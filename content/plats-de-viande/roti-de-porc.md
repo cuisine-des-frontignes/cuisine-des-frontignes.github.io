@@ -1,6 +1,9 @@
 +++
 title = "Rôti de porc"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Faire revenir le **rôti de porc** sur toutes ses faces dans une poêle, puis le réserver dans un plat creux.

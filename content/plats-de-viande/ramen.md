@@ -1,6 +1,9 @@
 +++
 title = "Ramen"
 date  = 2025-08-25
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Plat à faire après avoir réalisé un [**bouillon de poulet**](/marinades-et-condiments/bouillon-de-poulet/).

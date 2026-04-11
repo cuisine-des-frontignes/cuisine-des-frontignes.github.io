@@ -1,6 +1,9 @@
 +++
 title = "Osso buco"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Préparer ± **150 ml de bouillon de légumes**.

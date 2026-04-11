@@ -1,6 +1,9 @@
 +++
 title = "Cocotte portugaise"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Alias "Sauté de veau/porc aux pommes de terre et carottes"

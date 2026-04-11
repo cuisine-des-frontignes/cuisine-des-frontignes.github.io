@@ -1,6 +1,9 @@
 +++
 title       = "Prélever des suprêmes d'agrume"
 date        = 2025-08-08
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Pratique pour utiliser des agrumes (orange, citron...) en salade ou en plat frais, sans avoir de peau.

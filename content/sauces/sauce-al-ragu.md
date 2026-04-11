@@ -1,6 +1,9 @@
 +++
 title = "Sauce al ragu"
 date  = 2025-08-15
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne"]
 +++
 
 Dans un sautoir, faire revenir **un gros oignon rouge haché**, puis **2 carottes** coupées en très petits dés, puis **un demi-fenouil**

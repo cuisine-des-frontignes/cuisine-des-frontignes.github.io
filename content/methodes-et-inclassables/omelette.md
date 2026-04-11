@@ -1,6 +1,9 @@
 +++
 title = "Omelette"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Faire cuire ou réchauffer la garniture dans une poêle.

@@ -1,6 +1,9 @@
 +++
 title = "Marinade d'été pour viande"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Proportions pour **2 côtelettes de porc**.

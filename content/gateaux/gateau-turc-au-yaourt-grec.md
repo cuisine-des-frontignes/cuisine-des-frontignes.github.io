@@ -1,6 +1,9 @@
 +++
 title       = "Gâteau turc au yaourt grec"
 date        = 2025-08-01
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Préchauffer le four à 170 °C. 

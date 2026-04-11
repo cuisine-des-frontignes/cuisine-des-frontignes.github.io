@@ -1,6 +1,9 @@
 +++
 title = "Purée de butternut au thym"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["automne"]
 +++
 
 Peler et couper un **butternut** avec quelques **patates**, pour obtenir environ 3/5 de butternut et 2/5 de patates.

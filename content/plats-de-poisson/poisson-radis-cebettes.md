@@ -1,6 +1,9 @@
 +++
 title = "Poisson avec topping de radis et cébettes"
 date  = 2026-04-04
+
+[taxonomies]
+saisons = ["printemps"]
 +++
 
 Une bonne idée d'accomodement de printemps : couper des **radis frais** et des **cébettes** en petits morceaux, ajouter un peu de **fleur de sel**, et s'en servir de topping pour un poisson blanc. Cela ajoute un croquant bienvenu.

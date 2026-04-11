@@ -1,6 +1,9 @@
 +++
 title = "Carottes roties"
 date  = 2025-10-11
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper les fanes d'**une botte de carottes fânes** (important, sinon elles sont trop grosses), en laissant 2-3cm de vert, c'est plus joli. Les brosser et laver afin d'enlever la terre. Les placer dans un plat allant au four, et les enduire d'huile d'olive, sel et poivre. On peut aussi ajouter du miel, du thym et du piment d'Espelette par exemple ; ou encore du poivre de Jamaïque et du thym citron, avec un trait de citron vert à la fin. Sans doute d'autres accomodements sont-ils possibles.

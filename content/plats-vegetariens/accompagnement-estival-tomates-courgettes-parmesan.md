@@ -1,6 +1,9 @@
 +++
 title       = "Accompagnement estival tomates-courgettes-parmesan"
 date        = 2025-08-07
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Un bon accompagnement pour des viandes en été, lorsqu'on n'a pas envie de manger très chaud.

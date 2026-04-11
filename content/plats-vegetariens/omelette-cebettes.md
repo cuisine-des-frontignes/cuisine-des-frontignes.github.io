@@ -1,6 +1,9 @@
 +++
 title = "Omelette aux cébettes"
 date  = 2026-04-06
+
+[taxonomies]
+saisons = ["printemps"]
 +++
 
 Une bonne manière de manger des cébettes au printemps.

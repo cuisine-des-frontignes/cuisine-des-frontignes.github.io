@@ -1,6 +1,9 @@
 +++
 title = "Purée de potimarrons et patates douces"
 date  = 2025-11-29
+
+[taxonomies]
+saisons = ["automne"]
 +++
 
 Faire rôtir au four **un potimarron** juste fendu en deux et épépiné, et **des patates douces** coupées en deux dans le sens de la longueur. Environ 40mn à 170°, mais cela tolère très bien l'inexactitude. La proportion à rechercher est de 2/3 potimarron et 1/3 patates douces.

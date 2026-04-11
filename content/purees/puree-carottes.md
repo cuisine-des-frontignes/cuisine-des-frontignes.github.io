@@ -1,6 +1,9 @@
 +++
 title = "Purée de carottes"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Éplucher **1 kg de carottes**, les couper dans le sens de la longueur puis en tous petits morceaux, très fins. Réserver.

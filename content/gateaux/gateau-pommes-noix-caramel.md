@@ -1,6 +1,9 @@
 +++
 title = "Gâteau pommes-noix-caramel"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Une demi-heure avant de commencer le gâteau, couper **110 g de beurre** en dés, et le laisser ramollir hors du frigo. Beurrer le grand moule rond en verre. Préchauffer le four à 175°C. 

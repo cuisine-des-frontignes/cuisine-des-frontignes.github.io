@@ -1,6 +1,9 @@
 +++
 title       = "Lasagnes al ragu"
 date        = 2025-10-13
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne"]
 +++
 
 Préalablement, avoir préparé une [**sauce al ragu**](/sauces/sauce-al-ragu/). Avec les quantités de cette recette, on mange une fois à trois environ, et on peut faire ce plat de lasagnes avec le reste. Verser un trait de **lait** dans la sauce pour qu'elle se fonde mieux avec le reste à la cuisson.

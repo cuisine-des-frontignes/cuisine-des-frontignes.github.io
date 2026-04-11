@@ -1,6 +1,9 @@
 +++
 title = "Rôti de veau en croûte de thym"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Préchauffer le four à 190°C. Faire revenir un **rôti de veau** à la poêle de tous les côtés.

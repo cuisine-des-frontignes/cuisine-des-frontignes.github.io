@@ -1,6 +1,9 @@
 +++
 title       = "Soupe potimarron - lentilles corail"
 date        = 2026-04-04
+
+[taxonomies]
+saisons = ["automne"]
 +++
 
 Faire revenir **deux gousses d'ail**, **un petit potimarron coupé en cubes** et **120g? de lentilles corail** (150g? 200g? à voir, je n'ai pas noté), **deux feuilles de laurier** et couvrir d'eau. Une fois que c'est cuit, enlever le laurier, ajouter **un peu de piment d'Espelette**, saler, poivrer et mixer.

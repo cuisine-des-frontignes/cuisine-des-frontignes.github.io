@@ -1,6 +1,9 @@
 +++
 title       = "Gâteau nectarines et ricotta"
 date        = 2025-08-01
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Préchauffer le four à 180°C. Beurrer et chemiser le moule rond transparent de 25 cm de diamètre.

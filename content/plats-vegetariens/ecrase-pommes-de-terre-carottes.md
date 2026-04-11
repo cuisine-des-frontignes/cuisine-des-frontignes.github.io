@@ -1,6 +1,9 @@
 +++
 title = "Écrasé pomme de terre - carotte"
 date  = 2025-08-17
+
+[taxonomies]
+saisons = ["printemps", "automne", "hiver"]
 +++
 
 Mettre au cuit-vapeur des **carottes** en très petits bouts et des **patates** en petits bouts, en proportion variable (mais pas plus de 50% de carottes), avec **trois feuilles de laurier** et **trois gousses d'ail** (pour 1,5kg de légumes).

@@ -1,6 +1,9 @@
 +++
 title = "Arancini"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete"]
 +++
 
 Faire des boulettes à la main avec les **restes d'un risotto** et au cœur un **morceau de fromage frais** (chèvre, bleu…).

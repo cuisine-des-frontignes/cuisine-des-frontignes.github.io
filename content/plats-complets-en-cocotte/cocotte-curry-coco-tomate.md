@@ -1,6 +1,9 @@
 +++
 title = "Cocotte à la sauce curry-coco-tomate"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper **1 ou 2 oignons** et les faire revenir 10 mn dans la cocotte. Ajouter **1 poivron rouge** émincé, laisser un peu revenir puis réserver.

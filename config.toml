@@ -32,5 +32,5 @@ slim_menu = [
   { name = "Gâteaux",                       url = "/gateaux/" },
   { name = "Autres desserts",               url = "/autres-desserts/" },
   { name = "Méthodes et inclassables",      url = "/methodes-et-inclassables/" },
-  { name = "A tester",                      url = "a-tester/" },
+  { name = "A tester",                      url = "/a-tester/" },
   ]

@@ -1,6 +1,9 @@
 +++
 title = "Purée de patates douces rôties"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "automne", "hiver"]
 +++
 
 Couper les **patates douces** en deux et les placer face coupée sur une plaque. Cuire jusqu’à ce qu’elles soient bien tendres (un couteau doit s’y enfoncer sans résistance).

@@ -1,6 +1,9 @@
 +++
 title = "Purée patates-céleri"
 date  = 2026-03-30
+
+[taxonomies]
+saisons = ["printemps", "hiver"]
 +++
 
 Faire cuire à la vapeur du **céleri boule** (en petits bouts) et des **patates** (en bouts moyens, ça cuit beaucoup plus vite) (proportion: environ 1/3 de céleri seulement, le goût est fort). On peut rajouter dans le panier vapeur **une branche de thym-citron** et **une gousse d'ail**.

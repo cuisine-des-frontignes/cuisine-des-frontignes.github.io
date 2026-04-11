@@ -1,6 +1,9 @@
 +++
 title = "Sauce crémeuse à l'ail des ours"
 date  = 2026-03-30
+
+[taxonomies]
+saisons = ["printemps"]
 +++
 
 L'idée de rendre un pesto d'ail des ours plus doux, plus facile à manger en accompagnement.

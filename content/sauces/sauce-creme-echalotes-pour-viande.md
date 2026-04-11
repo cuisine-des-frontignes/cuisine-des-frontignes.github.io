@@ -1,6 +1,9 @@
 +++
 title = "Sauce express crème-échalotes pour viande"
 date  = 2025-08-17
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Après cuisson d'une viande, réserver sous alu. Déglacer immédiatement à feu vif avec **du vin blanc**, gratter tous les sucs,

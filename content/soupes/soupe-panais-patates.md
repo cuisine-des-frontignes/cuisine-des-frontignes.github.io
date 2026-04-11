@@ -1,6 +1,9 @@
 +++
 title       = "Soupe panais-patates"
 date        = 2025-08-06
+
+[taxonomies]
+saisons = ["automne", "hiver"]
 +++
 
 Faire revenir **un oignon** et **2 gousses d'ail émincées**, ajouter **800g de panais** et **300g de patates**. Laisser cuire.

@@ -1,6 +1,9 @@
 +++
 title       = "Quenelle de crème / yaourt grec (pour une soupe)"
 date        = 2025-12-08
+
+[taxonomies]
+saisons = ["automne", "hiver"]
 +++
 
 Placer auparavant un bol au congélateur un quart d'heure.

@@ -1,6 +1,9 @@
 +++
 title       = "Pesto à l'ail des ours"
 date        = 2025-08-22
+
+[taxonomies]
+saisons = ["printemps"]
 +++
 
 Mixer environ **40g d’amandes** en morceaux grossiers, réserver.

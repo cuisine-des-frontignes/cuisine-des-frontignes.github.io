@@ -1,6 +1,9 @@
 +++
 title       = "Dessert très simple au Delta"
 date        = 2025-08-22
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper des **fruits** (ex : bananes) en petits bouts, les faire cuire à la poêle avec du beurre et du sucre jusqu’à caramélisation.  

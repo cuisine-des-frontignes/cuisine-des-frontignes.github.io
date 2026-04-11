@@ -1,6 +1,9 @@
 +++
 title = "Sablés parmesan-romarin"
 date  = 2025-08-15
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Dans un grand saladier, mélanger **180g de farine**, **1 c.à.c. de levure**, puis **70g de beurre demi-sel** préalablement sorti du

@@ -1,6 +1,9 @@
 +++
 title = "Frichti à l’aubergine et au thon"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete"]
 +++
 
 Émincer **2 petits oignons** et les faire revenir dans une poêle qui n’accroche pas. Ajouter **3 gousses d’ail** hachées puis **2 grosses aubergines** coupées en tout petits dés, avec un peu d’**huile** et de **sel**. Faire cuire alors à couvert, à feu moyen, pendant 30 à 40 mn.

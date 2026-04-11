@@ -1,6 +1,9 @@
 +++
 title = "Frites au four"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Couper des patates (type Agata) en bâtonnets d’environ **8 mm** de côté, en conservant la peau.

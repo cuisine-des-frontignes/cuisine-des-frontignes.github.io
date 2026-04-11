@@ -1,6 +1,9 @@
 +++
 title = "Truites en papillotes"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete"]
 +++
 
 Préchauffer le four à 210°C.

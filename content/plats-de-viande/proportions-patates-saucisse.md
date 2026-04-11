@@ -1,6 +1,9 @@
 +++
 title = "Proportions patates–saucisse en cas de repas mondain"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Un plat grand (inox ou verre) correspond à environ **3 personnes** : **1 kg de patates**, **500 g de saucisse** et **250 g de sauce** (crème, citron, etc.).

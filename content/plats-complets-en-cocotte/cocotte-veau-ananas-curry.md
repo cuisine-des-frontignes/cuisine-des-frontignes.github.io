@@ -1,6 +1,9 @@
 +++
 title       = "Cocotte de veau, ananas, poivrons et curry"
 date        = 2025-10-11
+
+[taxonomies]
+saisons = ["printemps", "automne", "hiver"]
 +++
 
 Faire revenir **un oignon** puis **deux poivrons** dans une cocotte, ajouter un peu de **curry**, puis les 2/3 d'un **ananas coupé préalablement en dés** (dans l'idéal un ananas Victoria, c'est vraiment meilleur), et le **zeste d'un demi-citron vert**. Laisser ramollir et réserver.

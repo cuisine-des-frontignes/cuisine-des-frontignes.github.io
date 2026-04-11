@@ -1,6 +1,9 @@
 +++
 title = "Espadon mariné au four"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Quelques heures avant de manger :

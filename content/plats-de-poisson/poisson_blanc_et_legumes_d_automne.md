@@ -1,6 +1,9 @@
 +++
 title = "Poisson blanc et légumes d'automne"
 date  = 2025-11-30
+
+[taxonomies]
+saisons = ["automne"]
 +++
 
 Dans un plat allant au four, couper des **dés de courge** (potiron, butternut ou autre), un **oignon rouge**, quelques **gousses d'ail** en chemise juste écrasées sous la lame du couteau, si l'on veut un petit **poireau** coupé en minces tronçons. Saler, poivrer, mettre de l'huile d'olive et bien mélanger. Enfourner environ 25 à 30mn à 185°. Mélanger doucement avec la spatule.

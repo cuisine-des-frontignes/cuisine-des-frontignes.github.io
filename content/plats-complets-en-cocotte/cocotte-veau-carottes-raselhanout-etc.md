@@ -1,6 +1,9 @@
 +++
 title       = "Cocotte de veau, carottes, ras el hanout et citron"
 date        = 2025-07-30
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne"]
 +++
 
 Mettre **500g de carottes**, en rondelles grossières, au cuit vapeur, 1h++.

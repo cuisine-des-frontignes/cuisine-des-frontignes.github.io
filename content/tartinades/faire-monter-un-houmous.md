@@ -1,6 +1,9 @@
 +++
 title       = "Faire monter un houmous"
 date        = 2025-08-01
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Méthode de Laura.

@@ -1,6 +1,9 @@
 +++
 title = "Couscous"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 (à préparer 3h-3h15 avant)

@@ -1,6 +1,9 @@
 +++
 title = "Quiche épinards - ricotta - truite fumée"
 date  = 2026-04-06
+
+[taxonomies]
+saisons = ["printemps", "hiver"]
 +++
 
 En avance, faire tomber à la poêle **500g d'épinards**, les réserver. Une fois froids, les essorer à la main pour enlever pas mal d'eau.

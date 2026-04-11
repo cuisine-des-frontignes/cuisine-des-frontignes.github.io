@@ -1,6 +1,9 @@
 +++
 title = "Gaufres aux épinards et fromage"
 date  = 2025-12-07
+
+[taxonomies]
+saisons = ["printemps", "hiver"]
 +++
 
 Avec les proportions suivantes, on fait environ 8 gaufres.

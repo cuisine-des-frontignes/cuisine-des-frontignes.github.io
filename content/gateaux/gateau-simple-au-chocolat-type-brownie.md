@@ -1,6 +1,9 @@
 +++
 title       = "Gâteau simple au chocolat type brownie"
 date        = 2025-08-07
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Préchauffer le four à 180 °C. 

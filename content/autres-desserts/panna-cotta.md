@@ -1,7 +1,11 @@
 +++
 title = "Panna cotta"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
+
 
 Faire tremper **4 feuilles de gélatine** (± 8 g) dans de l’eau.
 

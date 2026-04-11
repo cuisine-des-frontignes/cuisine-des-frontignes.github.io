@@ -1,6 +1,9 @@
 +++
 title = "Gâteau bananes - chocolat"
 date  = 2025-08-15
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Écraser à la fourchette **80g de beurre ramolli**, ajouter **100g de sucre (blanc, roux, vanillé mêlés)** puis **3 œufs**.

@@ -1,6 +1,9 @@
 +++
 title       = "Entrée burrata, orange, grenade et pistache"
 date        = 2025-08-08
+
+[taxonomies]
+saisons = ["automne", "hiver"]
 +++
 
 Quelques heures, ou au moins dizaines de minutes avant de manger, prélever des suprêmes d'**orange** (1/2 orange par personne), que l'on coupe en trois, et des graines de **grenade** (1/12 de grenade par personne).

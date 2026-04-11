@@ -1,6 +1,9 @@
 +++
 title       = "Tzatziki"
 date        = 2026-03-29
+
+[taxonomies]
+saisons = ["ete"]
 +++
 
 Eplucher et épépiner **1 concombre**, le râper avec la râpe électrique pour les carottes râpées. Saler. Laisser dégorger 1/2 h. Bien essorer avec les mains.

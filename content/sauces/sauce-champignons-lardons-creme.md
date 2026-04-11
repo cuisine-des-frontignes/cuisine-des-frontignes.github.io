@@ -1,6 +1,9 @@
 +++
 title = "Sauce champignons, lardons et creme"
 date  = 2025-08-22
+
+[taxonomies]
+saisons = ["printemps", "automne", "hiver"]
 +++
 
 Faire revenir **deux grosses échalotes émincées** dans une poêle avec un bon morceau de beurre. Ajouter **500g de champignons coupés**. Réserver après cuisson. 

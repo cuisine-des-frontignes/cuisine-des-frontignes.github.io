@@ -1,6 +1,9 @@
 +++
 title       = "Sauce béchamel"
 date        = 2025-10-13
+
+[taxonomies]
+saisons = ["printemps", "ete", "automne", "hiver"]
 +++
 
 Dans une casserole, faire fondre **35g de beurre**, puis ajouter **35g de farine**, fouetter fort quelques dizaines de secondes, ajouter **500mL de lait** et continuer à fouetter à feu fort.

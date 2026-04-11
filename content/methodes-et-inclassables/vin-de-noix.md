@@ -1,6 +1,9 @@
 +++
 title = "Vin de noix"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["printemps", "ete"]
 +++
 
 Recette à réaliser aux alentours du 20 juin.

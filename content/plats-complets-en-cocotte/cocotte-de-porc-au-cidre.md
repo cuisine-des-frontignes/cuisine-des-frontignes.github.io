@@ -1,6 +1,9 @@
 +++
 title = "Cocotte de porc au cidre"
 date  = 2026-03-28
+
+[taxonomies]
+saisons = ["automne", "hiver"]
 +++
 
 Éplucher **une dizaine de petites pommes**, les couper en lamelles.
