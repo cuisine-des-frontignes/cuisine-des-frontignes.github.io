@@ -15,8 +15,10 @@
 {% set desserts = get_section(path="autres-desserts/_index.md") %}
 {% set methodes = get_section(path="methodes-et-inclassables/_index.md") %}
 {% set atester = get_section(path="a-tester/_index.md") %}
+
 <input type="text" id="search" placeholder="Rechercher un ingrédient...">
 <ul id="results"></ul>
+
 <script>
 let index = [];
 
@@ -64,7 +66,41 @@ document.getElementById("search").addEventListener("input", function() {
     marinades.pages | length +
     gateaux.pages | length +
     desserts.pages | length +
-    methodes.pages | length 
+    methodes.pages | length
 %}
+
 <h1>{{ total }} recettes</h1>
+
+<section>
+  <h2>Recettes par saison</h2>
+
+  <p>
+    <strong>Printemps :</strong>
+    <a href="/saisons/printemps/">tout</a>,
+    <a href="/saisons/printemps/?mode=proches">saisons proches</a>,
+    <a href="/saisons/printemps/?mode=seule">saison seule</a>
+  </p>
+
+  <p>
+    <strong>Été :</strong>
+    <a href="/saisons/ete/">tout</a>,
+    <a href="/saisons/ete/?mode=proches">saisons proches</a>,
+    <a href="/saisons/ete/?mode=seule">saison seule</a>
+  </p>
+
+  <p>
+    <strong>Automne :</strong>
+    <a href="/saisons/automne/">tout</a>,
+    <a href="/saisons/automne/?mode=proches">saisons proches</a>,
+    <a href="/saisons/automne/?mode=seule">saison seule</a>
+  </p>
+
+  <p>
+    <strong>Hiver :</strong>
+    <a href="/saisons/hiver/">tout</a>,
+    <a href="/saisons/hiver/?mode=proches">saisons proches</a>,
+    <a href="/saisons/hiver/?mode=seule">saison seule</a>
+  </p>
+</section>
+
 {% endblock content %}

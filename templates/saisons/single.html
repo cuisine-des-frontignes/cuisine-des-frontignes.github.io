@@ -1,0 +1,54 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>{{ term.name | title }}</h1>
+
+<p id="mode-label"></p>
+
+<ul id="recipes-list">
+  {% for page in term.pages %}
+    <li
+      data-saisons='[{% for s in page.taxonomies.saisons %}"{{ s }}"{% if not loop.last %},{% endif %}{% endfor %}]'
+    >
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<script>
+(function () {
+  const params = new URLSearchParams(window.location.search);
+  const mode = params.get("mode") || "tout";
+  const items = document.querySelectorAll("#recipes-list li");
+  const label = document.getElementById("mode-label");
+
+  if (mode === "tout") {
+    label.textContent = "Affichage : toutes les recettes de cette saison.";
+    return;
+  }
+
+  items.forEach(function (item) {
+    const saisons = JSON.parse(item.dataset.saisons || "[]");
+    const count = saisons.length;
+
+    let keep = true;
+
+    if (mode === "proches") {
+      keep = count >= 1 && count <= 3;
+    } else if (mode === "seule") {
+      keep = count === 1;
+    }
+
+    if (!keep) {
+      item.style.display = "none";
+    }
+  });
+
+  if (mode === "proches") {
+    label.textContent = "Affichage : recettes de cette saison avec au plus deux autres saisons.";
+  } else if (mode === "seule") {
+    label.textContent = "Affichage : recettes de cette saison seule.";
+  }
+})();
+</script>
+{% endblock content %}
