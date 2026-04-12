@@ -4,6 +4,10 @@ base_url = "https://cuisine-des-frontignes.github.io"
 default_language = "fr"
 theme = "slim"
 
+taxonomies = [
+{ name = "saisons" }
+]
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
@@ -34,7 +38,3 @@ slim_menu = [
   { name = "Méthodes et inclassables",      url = "/methodes-et-inclassables/" },
   { name = "A tester",                      url = "/a-tester/" },
   ]
-
-  taxonomies = [
-  { name = "saisons" }
-]
