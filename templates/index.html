@@ -16,6 +16,22 @@
 {% set methodes = get_section(path="methodes-et-inclassables/_index.md") %}
 {% set atester = get_section(path="a-tester/_index.md") %}
 
+{% set all_pages = 
+    tartinades.pages
+    | concat(with=aperitif.pages)
+    | concat(with=cocotte.pages)
+    | concat(with=viande.pages)
+    | concat(with=poisson.pages)
+    | concat(with=vegetarien.pages)
+    | concat(with=soupes.pages)
+    | concat(with=purees.pages)
+    | concat(with=sauces.pages)
+    | concat(with=marinades.pages)
+    | concat(with=gateaux.pages)
+    | concat(with=desserts.pages)
+    | concat(with=methodes.pages)
+%}
+
 <input type="text" id="search" placeholder="Rechercher un ingrédient...">
 <ul id="results"></ul>
 
@@ -70,6 +86,67 @@ document.getElementById("search").addEventListener("input", function() {
 %}
 
 <h1>{{ total }} recettes</h1>
+
+<ul id="recettes-saisons-seules" style="display: none;">
+  {% for page in all_pages %}
+    {% if page.taxonomies and page.taxonomies.saisons and page.taxonomies.saisons | length == 1 %}
+      <li
+        data-saison="{{ page.taxonomies.saisons[0] }}"
+        data-url="{{ page.permalink | safe }}"
+        data-title="{{ page.title }}"
+      ></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<section id="suggestion-saison">
+  <p id="suggestion-phrase"></p>
+  <p id="suggestion-recette"></p>
+</section>
+
+<script>
+(function () {
+  const month = new Date().getMonth() + 1;
+
+  let saisonCode = "";
+  let saisonTexte = "";
+
+  if (month >= 3 && month <= 5) {
+    saisonCode = "printemps";
+    saisonTexte = "le printemps";
+  } else if (month >= 6 && month <= 8) {
+    saisonCode = "ete";
+    saisonTexte = "l'été";
+  } else if (month >= 9 && month <= 11) {
+    saisonCode = "automne";
+    saisonTexte = "l'automne";
+  } else {
+    saisonCode = "hiver";
+    saisonTexte = "l'hiver";
+  }
+
+  const items = Array.from(document.querySelectorAll("#recettes-saisons-seules li"));
+  const recettes = items
+    .filter(item => item.dataset.saison === saisonCode)
+    .map(item => ({
+      url: item.dataset.url,
+      title: item.dataset.title
+    }));
+
+  const phrase = document.getElementById("suggestion-phrase");
+  const recette = document.getElementById("suggestion-recette");
+
+  phrase.textContent = "C'est " + saisonTexte + ", pourquoi ne pas cuisiner...";
+
+  if (recettes.length === 0) {
+    recette.textContent = "Aucune recette de saison seule n'est disponible pour le moment.";
+    return;
+  }
+
+  const choix = recettes[Math.floor(Math.random() * recettes.length)];
+  recette.innerHTML = '<a href="' + choix.url + '">' + choix.title + '</a>';
+})();
+</script>
 
 <section>
   <h2>Recettes par saison</h2>
