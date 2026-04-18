@@ -11,3 +11,5 @@ Couper les fanes d'**une botte de carottes fânes** (important, sinon elles sont
 Faire cuire 30mn à 200° pour qu'elles soient cuites et orangées, 35mn pour qu'elles soient plus roties, proches de noircir.
 
 C'est beau et bon, cela donne une saveur rotie agréable aux carottes.
+
+On peut aussi peler les carottes et les couper en bâtonnets d'1cm de côté environ, et faire la même chose (en faisant cuire moins longtemps, quitte à mettre sous alu le plat sortant du four ensuite). C'est un peu moins bon et beau à mon goût, mais ça change, cela permet d'autres présentations.
