@@ -32,6 +32,24 @@
     | concat(with=methodes.pages)
 %}
 
+{% set total =
+    tartinades.pages | length +
+    aperitif.pages | length +
+    cocotte.pages | length +
+    viande.pages | length +
+    poisson.pages | length +
+    vegetarien.pages | length +
+    soupes.pages | length +
+    purees.pages | length +
+    sauces.pages | length +
+    marinades.pages | length +
+    gateaux.pages | length +
+    desserts.pages | length +
+    methodes.pages | length
+%}
+
+<h1 class="compteur">{{ total }} fiches recettes patiemment rédigées</h1>
+
 <input type="text" id="search" placeholder="Rechercher un ingrédient...">
 <ul id="results"></ul>
 
@@ -68,24 +86,6 @@ document.getElementById("search").addEventListener("input", function() {
   });
 });
 </script>
-
-{% set total =
-    tartinades.pages | length +
-    aperitif.pages | length +
-    cocotte.pages | length +
-    viande.pages | length +
-    poisson.pages | length +
-    vegetarien.pages | length +
-    soupes.pages | length +
-    purees.pages | length +
-    sauces.pages | length +
-    marinades.pages | length +
-    gateaux.pages | length +
-    desserts.pages | length +
-    methodes.pages | length
-%}
-
-<h1>{{ total }} recettes</h1>
 
 <ul id="recettes-saisons-seules" style="display: none;">
   {% for page in all_pages %}
@@ -136,7 +136,7 @@ document.getElementById("search").addEventListener("input", function() {
   const phrase = document.getElementById("suggestion-phrase");
   const recette = document.getElementById("suggestion-recette");
 
-  phrase.textContent = "C'est " + saisonTexte + ", pourquoi ne pas cuisiner...";
+  phrase.textContent = "C'est " + saisonTexte + ", pourquoi ne pas cuisiner... ?";
 
   if (recettes.length === 0) {
     recette.textContent = "Aucune recette de saison seule n'est disponible pour le moment.";
@@ -149,7 +149,7 @@ document.getElementById("search").addEventListener("input", function() {
 </script>
 
 <section>
-  <h2>Recettes par saison</h2>
+  <h2 class="titre-saisons">Recettes par saison</h2>
 
   <p>
     <strong>Printemps :</strong>
