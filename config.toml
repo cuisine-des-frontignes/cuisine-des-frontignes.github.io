@@ -29,6 +29,7 @@ slim_menu = [
   { name = "Plats de viande",               url = "/plats-de-viande/" },
   { name = "Plats de poisson",              url = "/plats-de-poisson/" },
   { name = "Plats végétariens",             url = "/plats-vegetariens/" },
+  { name = "Accompagnements",               url = "/accompagnements/" },
   { name = "Soupes",                        url = "/soupes/" },
   { name = "Purées",                        url = "/purees/" },
   { name = "Sauces",                        url = "/sauces/" },

@@ -3,16 +3,31 @@ title = "A tester"
 date  = 2026-03-04
 +++
 
-Dukkah de pistaches (cf lien sur Maison de la pistache, faire d'autres recherches)
+**Ingrédients**
+- skyr
+- petit épeautre (voir Régal 131)
+- rau ram
 
-Crème de feta au milieu (voir l'échantillon du livre "Obsession feta" sur Amazon pour la recette)
+**Tartinades**
+- crème de feta au miel (Feta p.14)
+- crème de feta et pistache (Feta p.25)
 
-Omelette de cébettes
+
+**Livre feta (hors tartinades)**
+- feta croustillante (Feta p.21)
+- Soupe de lentilles grecque améliorée avec feta (Feta p.84)
+
+
+**Condiments**
+- picada aux noix (Feta p. 43)
+- dukkah de pistaches (cf lien sur Maison de la pistache, faire d'autres recherches)
+- pickles de carottes minute (Régal 131, p. 93)
 
 Faire cuire du riz dans du thé, par exemple au jasmin, pour lui donner un goût floral.
 
 Ajouter des graines de lin moulues dans une vinaigrette : cela ajoute du goût et permet une meilleure émulsion.
 
-Refaire de l'huile d'olive aromatisée : romarin, thym, peut-être ail... Bien pour l'été.
+Tarte soleil qui fait un petit effet (méthode facile Feta p. 100)
 
-Moussaka (recette du livre de Dina Nikalaou, à adapter en grand plat)
+
+

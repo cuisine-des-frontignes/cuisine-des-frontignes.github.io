@@ -29,3 +29,4 @@ Former, avec les mains humides, des miniboulettes, des boulettes ou des palets, 
 Faire fondre dans une poêle un peu d’huile et une quantité généreuse de beurre, faire revenir les boulettes 2 mn à feu vif sur chaque face, puis baisser à feu moyen quelques minutes de plus, jusqu’à bonne cuisson (ouvrir une boulette pour vérifier).
 
 Le grand classique : boeuf-kefta-origan.
+Très bon aussi : veau-romarin (environ 30cm linéaires de romarin à brin unique réduit en poudre pour 300g de viande, si si, autant), en déglaçant ensuite avec vin blanc + échalotes + crème.

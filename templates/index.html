@@ -7,6 +7,7 @@
 {% set viande = get_section(path="plats-de-viande/_index.md") %}
 {% set poisson = get_section(path="plats-de-poisson/_index.md") %}
 {% set vegetarien = get_section(path="plats-vegetariens/_index.md") %}
+{% set accompagnements = get_section(path="accompagnements/_index.md") %}
 {% set soupes = get_section(path="soupes/_index.md") %}
 {% set purees = get_section(path="purees/_index.md") %}
 {% set sauces = get_section(path="sauces/_index.md") %}
@@ -23,6 +24,7 @@
     | concat(with=viande.pages)
     | concat(with=poisson.pages)
     | concat(with=vegetarien.pages)
+    | concat(with=accompagnements.pages)
     | concat(with=soupes.pages)
     | concat(with=purees.pages)
     | concat(with=sauces.pages)
@@ -39,6 +41,7 @@
     viande.pages | length +
     poisson.pages | length +
     vegetarien.pages | length +
+    accompagnements.pages | length +
     soupes.pages | length +
     purees.pages | length +
     sauces.pages | length +
