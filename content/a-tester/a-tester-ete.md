@@ -14,3 +14,7 @@ date  = 2026-05-02
 - Raïta (variante du tzatziki) (Régal 131, p. 56)
 
 - Cheesecake fraises-basilic au skyr (Régal 131, p.62)
+
+- Salade Gavurdagi (Papilles et Pupilles : https://www.papillesetpupilles.fr/2026/06/salade-gavurdagi-recette-turque-fraiche-et-acidulee.html/)
+
+- soupe fraîche maison : concombre - yaourt - menthe ?

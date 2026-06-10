@@ -4,13 +4,11 @@ date  = 2026-03-04
 +++
 
 **Ingrédients**
-- skyr
 - petit épeautre (voir Régal 131)
 - rau ram
 
 **Tartinades**
 - crème de feta au miel (Feta p.14)
-- crème de feta et pistache (Feta p.25)
 
 
 **Livre feta (hors tartinades)**
