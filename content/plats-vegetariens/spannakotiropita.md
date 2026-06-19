@@ -14,3 +14,5 @@ Dans un plat (avec ces proportions, le petit plat carré en verre va bien), plac
 
 Faire cuire environ 20mn à 180°. Quand le dessus brunit, c'est bon. 
 
+Si je veux un peu améliorer cette recette, possible de s'inspirer de celle du burek aux épinards d'Ibrik p.30.
+

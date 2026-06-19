@@ -16,3 +16,4 @@ Recouvrir d'alumninium et enfourner à 180° pour 25mn. Puis enlever l'aluminium
 
 Très bon avec de la salade et de la vinaigrette, et/ou avec des tomates à la vinaigrette.
 
+Avec 6 feuilles de lasagnes fraîches, on remplit pile poil le grand moule à cake violet de Laura et un Tupperware bleu de grande taille. 

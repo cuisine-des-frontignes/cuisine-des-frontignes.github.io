@@ -7,25 +7,24 @@ date  = 2026-03-04
 - petit épeautre (voir Régal 131)
 - rau ram
 
-**Tartinades**
-- crème de feta au miel (Feta p.14)
-
-
-**Livre feta (hors tartinades)**
-- feta croustillante (Feta p.21)
+**Plats**
 - Soupe de lentilles grecque améliorée avec feta (Feta p.84)
+- Saltimbocca de veau mozzarella-sauge à retester (Grands classiques, post-it)
+- saumon grillé, miel et pistache : https://www.papillesetpupilles.fr/2021/08/filet-de-saumon-grille-au-four-miel-et-pistaches.html/ 
 
+**Accompagnements/Entrées**
+- feta croustillante (Feta p.21)
+- Pitas fourrées à la feta (Ibrik p. 42-43)
 
-**Condiments**
+**Condiments/tartinades**
 - picada aux noix (Feta p. 43)
 - dukkah de pistaches (cf lien sur Maison de la pistache, faire d'autres recherches)
 - pickles de carottes minute (Régal 131, p. 93)
+- crème de feta au miel (Feta p.14)
 
-Faire cuire du riz dans du thé, par exemple au jasmin, pour lui donner un goût floral.
-
-Ajouter des graines de lin moulues dans une vinaigrette : cela ajoute du goût et permet une meilleure émulsion.
-
-Tarte soleil qui fait un petit effet (méthode facile Feta p. 100)
+**Desserts**
+- refaire un gâteau basque (Grands livre des desserts, post-it)
+- tarte tatin
 
 
 
