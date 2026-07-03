@@ -9,6 +9,7 @@ date  = 2026-05-02
 - Moussaka (recette du livre de Dina Nikalaou, à adapter en grand plat)
 - Galettes courgettes-poulet, sauce yaourt-feta-menthe (Régal 131, p. 56)
 - plachia de poisson et risotto de pâtes (avec légumes d'été) : recette bizarre mais semblant bonne dans Ibrik p. 84-85
+- ceviche de truite : à voir
 
 **Accompagnements/Entrées**
 - Salade Gavurdagi (Papilles et Pupilles : https://www.papillesetpupilles.fr/2026/06/salade-gavurdagi-recette-turque-fraiche-et-acidulee.html/) avec tomates, melasse de grenade
