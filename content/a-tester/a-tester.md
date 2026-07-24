@@ -25,6 +25,7 @@ date  = 2026-03-04
 **Desserts**
 - refaire un gâteau basque (Grands livre des desserts, post-it)
 - tarte tatin
+- pain perdu cannelle-citron-orange : Régal 131 p. 125
 
 
 

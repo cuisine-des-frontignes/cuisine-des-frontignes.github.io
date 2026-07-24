@@ -30,3 +30,5 @@ Faire fondre dans une poêle un peu d’huile et une quantité généreuse de be
 
 Le grand classique : boeuf-kefta-origan.
 Très bon aussi : veau-romarin (environ 30cm linéaires de romarin à brin unique réduit en poudre pour 300g de viande, si si, autant), en déglaçant ensuite avec vin blanc + échalotes + crème.
+
+Pour changer un peu, on peut regarder la recette de boulettes grecques de Régal 126 p. 86.

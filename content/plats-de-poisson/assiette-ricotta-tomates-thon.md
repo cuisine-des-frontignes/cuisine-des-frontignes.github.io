@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Assiette ricotta-tomates-thon"
 date  = 2026-03-28
 
 [taxonomies]
