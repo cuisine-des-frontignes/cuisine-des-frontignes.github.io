@@ -10,6 +10,8 @@ saisons = ["printemps", "ete"]
 
 **Côtes de veau** de 2cm d'épaisseur : 6mn sur feu indirect couvert (3mn sur chaque face), 3mn sur feu direct et ardent découvert d'une face jusqu'à ce que ce soit bien grillé mais pas carbonisé, Juste 1mn de l'autre face pour marquer. 
 
+**Quasi de veau** en tranches de 1,2cm d'épaisseur : 1mn par face en feu vif direct.
+
 **Côtelettes d'agneau** de 2cm d'épaisseur : 2mn30 par face sur feu direct découvert
 
 **Tranches de gigot d'agneau** de 2cm d'épaisseur : 2mn15 par face sur feu direct découvert
