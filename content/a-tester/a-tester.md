@@ -10,7 +10,6 @@ date  = 2026-03-04
 
 **Plats**
 - Soupe de lentilles grecque améliorée avec feta (Feta p.84)
-- Saltimbocca de veau mozzarella-sauge à retester (Grands classiques, post-it)
 - saumon grillé, miel et pistache : https://www.papillesetpupilles.fr/2021/08/filet-de-saumon-grille-au-four-miel-et-pistaches.html/ 
 - vittello tonnato, plat très bizarre au veau et thon (Régal 133, p.54)
 - dhal de lentilles, lait de coco, légumes (Régal 127, p.75)
@@ -31,7 +30,7 @@ date  = 2026-03-04
 - refaire un gâteau basque (Grands livre des desserts, post-it)
 - tarte tatin
 - pain perdu cannelle-citron-orange : Régal 131 p. 125
-- strudel aux pommes (brick, pommes, amande, érable) (Régal 133, p.30)
+- strudel aux pommes (brick, pommes, amande, érable) (Régal 133, p.30) : pas mal, mais à refaire en changeant la pâte (voir historique ChatGPT)
 
 
 

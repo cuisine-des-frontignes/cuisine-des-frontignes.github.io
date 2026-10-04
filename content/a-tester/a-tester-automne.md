@@ -6,7 +6,6 @@ date  = 2026-05-02
 **Ingrédients**
 
 **Plats**
-- tarte à la pate filo potimarron-feta (Feta p. 110)
 - risotto de petit épeautre au butternut (Régal 133, p.61)
 - poulet aux figues et oranges (Régal 133, p.70)
 - courge spaghetti, girolles et sauge (Régal 127, p.49)
