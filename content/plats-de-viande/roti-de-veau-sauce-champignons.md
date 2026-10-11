@@ -14,6 +14,6 @@ Couper des **patates** en frites, les disposer autour, ajouter de l’huile et d
 
 Arroser de temps en temps le rôti. La dernière fois, l'arroser de **± 5 cl de Noilly-Prat**. À mi-cuisson, on peut remuer une fois patates et oignons s’ils accrochent trop (conseillé).
 
-Le rôti doit cuire au total 45 mn pour un rôti d'1Kg300. Au bout de ce temps, sortir le plat et le laisser reposer à couvert 5mn. Si le rôti est plus léger, bien évidemment ajuster à la baisse proportionnellement.
+Le rôti doit cuire au total 45 mn pour un rôti d'1Kg300, environ 35mn pour un rôti de 950g. Au bout de ce temps, sortir le plat et le laisser reposer à couvert 5mn. Si le rôti est plus léger, bien évidemment ajuster à la baisse proportionnellement.
 
 Très bon servi avec une [**sauce aux champignons et à la crème**](/sauces/sauce-champignons-creme/).

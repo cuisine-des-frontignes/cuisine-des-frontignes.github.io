@@ -19,6 +19,7 @@ date  = 2026-03-04
 - Pitas fourrées à la feta (Ibrik p. 42-43)
 - fleur d'oignon en tempura (Régal 133, p.22)
 - légumes glacés, notamment carottes (Régal 133, p.94)
+- pommes Anna pour faire des accompagnements de patates assez chics
 
 **Condiments/tartinades**
 - picada aux noix (Feta p. 43)
@@ -30,7 +31,7 @@ date  = 2026-03-04
 - refaire un gâteau basque (Grands livre des desserts, post-it)
 - tarte tatin
 - pain perdu cannelle-citron-orange : Régal 131 p. 125
-- strudel aux pommes (brick, pommes, amande, érable) (Régal 133, p.30) : pas mal, mais à refaire en changeant la pâte (voir historique ChatGPT)
+- strudel aux pommes (brick, pommes, amande, érable) (Régal 133, p.30) : pas mal, mais à refaire en changeant la pâte (voir historique ChatGPT) ; roulage très bien expliqué à 0'45'' dans cette vidéo : https://www.youtube.com/watch?v=MTSY91XRPTQ&t=54 
 
 
 
