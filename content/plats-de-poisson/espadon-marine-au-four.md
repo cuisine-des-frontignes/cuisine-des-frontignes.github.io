@@ -12,7 +12,7 @@ Faire revenir un gros **oignon** à la poêle, puis ajouter une boîte de **Polp
 
 1h30 avant de manger :
 
-Dans un plat allant au four, préparer la marinade en mélangeant le contenu de la poêle précédente, 3 ou 4 cuillères à soupe d’**huile d’olive**, **1 gousse d’ail** écrasée, du **thym** en quantité, le jus d’un demi-**citron**, du **sel** et du **poivre**. Mélanger le tout, poser l’**espadon** (tranche de **400 g pour deux**) au milieu et le recouvrir de la marinade. Laisser reposer une heure à température ambiante.
+Dans un plat allant au four, préparer la marinade en mélangeant le contenu de la poêle précédente, 3 ou 4 cuillères à soupe d’**huile d’olive**, **1 gousse d’ail** écrasée, du **thym** en quantité, le jus d’un demi-**citron**, du **sel** et du **poivre**. Mélanger le tout, poser l’**espadon** (tranche de **400 g pour deux**) au milieu et le recouvrir de la marinade. Laisser reposer une heure au frais.
 
 35 mn avant de manger :
 

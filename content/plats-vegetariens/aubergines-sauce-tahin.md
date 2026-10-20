@@ -6,7 +6,7 @@ date        = 2026-08-04
 saisons = ["ete"]
 +++
 
-Couper des **aubergines**, dans l'idéal assez longues et pas trop épaisses, dans la longueur, en tranches de 2 à 2,5cm environ. Quadriller leur chair au couteau, les saler, ajouter du **thym sec** et de l'**huile d'olive** rapidement étalée à la main ou au pinceau. Les poser, côté chair vers le bas, sur du papier sulfurisé dans un plat placé au four à 200°, pendant une quarantaine de minutes. Les aubergines doivent être bien cuites, presque fondantes. Laisser tiédir quelques minutes.
+Couper des **aubergines**, dans l'idéal assez longues et pas trop épaisses, dans la longueur, en tranches de 2,5cm à 3cm environ (si ce sont des aubergines longues très fines, les laisser entières). Quadriller leur chair au couteau, les saler, ajouter du **thym sec** et de l'**huile d'olive** rapidement étalée à la main ou au pinceau. Les poser, côté chair vers le bas, sur du papier sulfurisé dans un plat placé au four à 200°, pendant une quarantaine de minutes. Les aubergines doivent être bien cuites, presque fondantes. Laisser tiédir quelques minutes.
 
 Préparer la sauce en mélangeant **une très grosse cuillère à café de tahini**, environ **200g de yaourt grec**, **50g de feta** émiettée, le **jus d'1/3 de citron** et du sel. Il faut que la consistance reste tout de même légèrement pâteuse. 
 

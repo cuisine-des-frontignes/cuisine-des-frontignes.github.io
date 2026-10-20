@@ -8,7 +8,7 @@ saisons = ["hiver", "printemps"]
 
 En avance, préparer un [**labneh**](/tartinades/labneh/).
 
-Préparer une pâte à pancakes au sarrasin, en mélangeant environ **120g de farine de sarrasin**, **une demi-cuillérée à café de levure**, **1 gros oeuf**, **75cL de lait**, **75cL d'eau** et **15g de beurre fondu** et du **sel**. Ajuster en fonction de la consistance. Avec ces proportions on fait environ 8 petits pancakes.
+Préparer une pâte à pancakes au sarrasin, en mélangeant environ **120g de farine de sarrasin**, **une demi-cuillérée à café de levure**, **1 gros oeuf**, **75mL de lait**, **75mL d'eau** et **15g de beurre fondu** et du **sel**. Ajuster en fonction de la consistance. Avec ces proportions on fait environ 8 petits pancakes.
 
 Faire revenir à la poêle des lamelles d'**oignon rouge** et les faire légèrement caraméliser. Réserver. 
 

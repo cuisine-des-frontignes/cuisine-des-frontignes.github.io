@@ -1,5 +1,5 @@
 +++
-title = "Cuisson des viandes au barbecue"
+title = "Cuisson des viandes à la poêle"
 date  = 2026-10-10
 
 [taxonomies]
