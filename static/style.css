@@ -104,3 +104,268 @@ header {
 #suggestion-recette a {
   font-weight: normal;
 }
+
+/*
+ * Confort de lecture sur téléphone.
+ * Ces règles sont limitées aux écrans étroits : le site de bureau est conservé.
+ * Le thème Slim est chargé avant ce fichier, qui peut donc le surcharger.
+ */
+@media screen and (max-width: 760px) {
+  body {
+    font-size: 17px;
+    line-height: 1.6;
+    padding: 12px 16px 28px;
+    overflow-wrap: break-word;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .header {
+    position: relative;
+    margin: 0 0 20px;
+    padding: 6px 0 14px;
+    border-bottom: 1px solid #e2e2e2;
+  }
+
+  .header .site-title {
+    font-size: 1.45rem;
+    line-height: 1.25;
+    margin: 0 0 4px;
+  }
+
+  .site-tagline {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    margin: 0 0 12px;
+  }
+
+  /* Remplace le menu rejeté hors du cadre par un menu vertical tactile. */
+  .nav {
+    position: static;
+    transform: none;
+    width: 100%;
+    text-align: left;
+  }
+
+  .nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    min-height: 46px;
+    padding: 11px 13px;
+    color: #333;
+    text-align: left;
+    text-decoration: none;
+    background: #f7f7f7;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+  }
+
+  .nav-btn::after {
+    content: "Rubriques";
+    color: #333;
+    font-size: 0.95rem;
+  }
+
+  .nav-btn .ci-burger {
+    position: relative;
+    top: 0;
+    left: 0;
+    flex: 0 0 auto;
+    width: 18px;
+  }
+
+  .nav-btn:focus-visible,
+  .nav-list a:focus-visible,
+  #search:focus-visible {
+    outline: 2px solid #2a5db0;
+    outline-offset: 2px;
+  }
+
+  .nav-list,
+  .nav-btn.is-on + .nav-list {
+    transform: none;
+    margin: 5px 0 0;
+    padding: 4px 10px;
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    max-height: 65vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    font-size: 1rem;
+    text-align: left;
+  }
+
+  .nav-list {
+    display: none;
+  }
+
+  .nav-btn.is-on + .nav-list {
+    display: block;
+  }
+
+  .nav-list li {
+    display: block;
+  }
+
+  .nav-list li a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 9px 5px;
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 1.35;
+  }
+
+  .nav-list li:last-child a {
+    border-bottom: 0;
+  }
+
+  .nav-list .spacer {
+    display: none;
+  }
+
+  /* Recherche et sélection des recettes. */
+  #search {
+    width: 100%;
+    max-width: none;
+    min-height: 46px;
+    margin: 18px 0 9px;
+    padding: 10px 12px;
+    font-size: 1rem;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+  }
+
+  #results {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #results li {
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  #results li a {
+    display: block;
+    padding: 10px 5px;
+    min-height: 44px;
+    line-height: 1.4;
+  }
+
+  /* Le compteur destiné au bureau n'encombre pas l'accueil mobile. */
+  .compteur {
+    display: none;
+  }
+
+  .titre-saisons {
+    font-size: 1.15rem;
+  }
+
+  #suggestion-saison {
+    max-width: none;
+    padding: 13px 12px;
+    margin: 18px 0;
+  }
+
+  section {
+    margin-top: 22px;
+  }
+
+  section strong {
+    width: auto;
+  }
+
+  /* Les intitulés longs ne doivent plus déborder du téléphone. */
+  .post {
+    margin-bottom: 10px;
+  }
+
+  .post-title {
+    margin: 0 0 10px;
+    line-height: 1.35;
+  }
+
+  .post-title::after,
+  .post-title a::before,
+  .post-title a::after {
+    display: none;
+  }
+
+  .post-title a {
+    display: inline;
+    font-size: 1rem;
+    line-height: 1.4;
+    padding: 0;
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .post-content {
+    margin: 16px 0 22px;
+    line-height: 1.67;
+  }
+
+  .post-content p,
+  .post-content ul,
+  .post-content ol {
+    margin-bottom: 1.1rem;
+  }
+
+  .post-content ul,
+  .post-content ol {
+    padding-left: 1.4rem;
+  }
+
+  .post-content li {
+    margin-bottom: 0.35rem;
+  }
+
+  .post-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 12px 0;
+  }
+
+  .post-content pre {
+    overflow-x: auto;
+    word-break: normal;
+  }
+
+  .post-content table {
+    display: block;
+    overflow-x: auto;
+  }
+
+  #recipes-list {
+    padding-left: 1.25rem;
+  }
+
+  #recipes-list li {
+    padding: 7px 0;
+    line-height: 1.45;
+  }
+
+  blockquote {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  body {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .header .site-title {
+    font-size: 1.3rem;
+  }
+}
