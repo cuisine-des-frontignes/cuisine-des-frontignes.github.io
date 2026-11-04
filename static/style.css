@@ -261,9 +261,9 @@ header {
     line-height: 1.4;
   }
 
+  /* Le compteur destiné au bureau n'encombre pas l'accueil mobile. */
   .compteur {
-    margin: 0 0 12px;
-    font-size: 0.9rem;
+    display: none;
   }
 
   .titre-saisons {
